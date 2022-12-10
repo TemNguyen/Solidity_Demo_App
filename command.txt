@@ -1,0 +1,20 @@
+add at migrations -> deployed
+truffle develop
+truffle init
+truffle test
+
+
+
+$develop migrate --reset
+npm install express ejs body-parser mongoose
+npm install socket.io
+npm install -g static-server
+static-server public
+
+solidity-user-01
+k378lgVvlsUW5OEU
+
+npm install web3 web3.js-browser
+
+bignumber.js
+https://webpack.js.org/

@@ -1,0 +1,116 @@
+{
+  "contractName": "SmartContract",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/contracts/SmartContract.sol\":\"SmartContract\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/SmartContract.sol\":{\"keccak256\":\"0xa6d04776c54e2f5d7f9007e7ee4829c02aece28250e09460fb515f0f927c58d6\",\"urls\":[\"bzz-raw://f5d749f7c013f42e25ecb61be832be8aaa9ef4a3e3aaf186705c982970d155ad\",\"dweb:/ipfs/QmSUupb49qQvker5qHgbjnGfs67PyaJibHEf3bpYCfKxR9\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a72315820c38dd9bdea8d2c3272284cceeb8d8effa03c7ecc1fbb0cec26f3ba13b7713dc764736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a72315820c38dd9bdea8d2c3272284cceeb8d8effa03c7ecc1fbb0cec26f3ba13b7713dc764736f6c63430005100032",
+  "sourceMap": "27:33:6:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:33:6;;;;;;;",
+  "deployedSourceMap": "27:33:6:-;;;;;",
+  "source": "pragma solidity ^0.5.0;\r\n\r\ncontract SmartContract {\r\n    \r\n}",
+  "sourcePath": "D:\\Lab\\solidity-helloworld\\contracts\\SmartContract.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/SmartContract.sol",
+    "exportedSymbols": {
+      "SmartContract": [
+        251
+      ]
+    },
+    "id": 252,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 250,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:6"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 251,
+        "linearizedBaseContracts": [
+          251
+        ],
+        "name": "SmartContract",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 252,
+        "src": "27:33:6"
+      }
+    ],
+    "src": "0:60:6"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "project:/contracts/SmartContract.sol",
+      "exportedSymbols": {
+        "SmartContract": [
+          251
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            "^",
+            "0.5",
+            ".0"
+          ]
+        },
+        "id": 250,
+        "name": "PragmaDirective",
+        "src": "0:23:6"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            251
+          ],
+          "name": "SmartContract",
+          "nodes": [
+            null
+          ],
+          "scope": 252
+        },
+        "id": 251,
+        "name": "ContractDefinition",
+        "src": "27:33:6"
+      }
+    ],
+    "id": 252,
+    "name": "SourceUnit",
+    "src": "0:60:6"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.3",
+  "updatedAt": "2021-08-25T06:15:36.424Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
